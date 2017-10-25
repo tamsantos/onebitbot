@@ -1,0 +1,2 @@
+Company.create name: 'OneBitBot'
+    
